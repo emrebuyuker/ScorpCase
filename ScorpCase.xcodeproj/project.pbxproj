@@ -14,6 +14,7 @@
 		93E7778126CAFEB800AF1502 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93E7778026CAFEB800AF1502 /* Assets.xcassets */; };
 		93E7778426CAFEB800AF1502 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93E7778226CAFEB800AF1502 /* LaunchScreen.storyboard */; };
 		93E777C926CC210400AF1502 /* ArrayExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93E777C826CC210300AF1502 /* ArrayExtensions.swift */; };
+		93E777CD26CC259A00AF1502 /* UIViewControllerExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93E777CC26CC259A00AF1502 /* UIViewControllerExtensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		93E7778326CAFEB800AF1502 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		93E7778526CAFEB800AF1502 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93E777C826CC210300AF1502 /* ArrayExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayExtensions.swift; sourceTree = "<group>"; };
+		93E777CC26CC259A00AF1502 /* UIViewControllerExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				93E777C826CC210300AF1502 /* ArrayExtensions.swift */,
+				93E777CC26CC259A00AF1502 /* UIViewControllerExtensions.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 			files = (
 				93E7777C26CAFEB600AF1502 /* ViewController.swift in Sources */,
 				93E7777826CAFEB600AF1502 /* AppDelegate.swift in Sources */,
+				93E777CD26CC259A00AF1502 /* UIViewControllerExtensions.swift in Sources */,
 				93E7777A26CAFEB600AF1502 /* SceneDelegate.swift in Sources */,
 				93E777C926CC210400AF1502 /* ArrayExtensions.swift in Sources */,
 			);

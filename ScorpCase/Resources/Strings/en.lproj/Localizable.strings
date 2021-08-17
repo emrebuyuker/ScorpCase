@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  ScorpCase
+
+  Created by Emre Büyüker on 17.08.2021.
+  
+*/
+
+/* General */
+"MessageTitle" = "ERROR";
+"AlertButtonTitle" = "OK";
+"ErrorText" = "No one here :)";

@@ -56,9 +56,29 @@
 		93E7777626CAFEB600AF1502 /* ScorpCase */ = {
 			isa = PBXGroup;
 			children = (
+				93E777AC26CC08CF00AF1502 /* Application */,
+			);
+			path = ScorpCase;
+			sourceTree = "<group>";
+		};
+		93E777AC26CC08CF00AF1502 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				93E777AD26CC08D900AF1502 /* Delegate */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		93E777AD26CC08D900AF1502 /* Delegate */ = {
+			isa = PBXGroup;
+			children = (
 				93E7777726CAFEB600AF1502 /* AppDelegate.swift */,
 				93E7777926CAFEB600AF1502 /* SceneDelegate.swift */,
 				93E7777B26CAFEB600AF1502 /* ViewController.swift */,
+			);
+			path = Delegate;
+			sourceTree = "<group>";
+		};
 				93E7777D26CAFEB600AF1502 /* Main.storyboard */,
 				93E7778026CAFEB800AF1502 /* Assets.xcassets */,
 				93E7778226CAFEB800AF1502 /* LaunchScreen.storyboard */,
